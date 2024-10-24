@@ -1,0 +1,200 @@
+* {
+    
+}
+
+#banner {
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
+
+#letra {
+    float: inline-start;
+    width: 20%;
+}
+
+#negro{
+    font-weight: bold;
+    border-bottom:1px dotted black;
+}
+
+#iconos{
+    text-align: center;
+    
+}
+
+#anacuna{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    
+}
+#octubre{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    
+    font-size: x-small;
+}
+.movil{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.coche{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.fabrica{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.ciudad{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+#sub{
+    border-bottom:1px dotted black;
+}
+
+#anacuna a{
+    text-decoration: none;
+    color: gray;
+    
+
+}
+
+#octubre a{
+    text-decoration: none;
+    color: gray;
+
+}
+
+
+
+#negro a{
+    text-decoration: none;
+    color: black;
+}
+#alfonso{
+    font-weight: bold;
+    font-size: x-large;
+}
+
+#cabecera {
+    padding-inline: 450px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 100;
+}
+
+#fotos {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.arena{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+   
+
+#pie {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-inline: 490px;
+    line-height: 25px;
+
+}
+
+#texto {
+
+    font-family: Arial, Helvetica, sans-serif;
+    padding-inline: 470px;
+    line-height: 25px;
+
+}
+
+#fotofinal{
+    margin-left: 475px;
+    
+    width: 37%;
+    
+}
+
+#tere{
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    margin-left: 470px;
+}
+
+#listafinal ul{
+    
+    padding-inline: 470px;
+    font-size: smaller;
+    
+}
+
+.lineagris{
+    width: 37%;
+    background-color: rgb(157, 157, 157);
+    height: 1px;
+
+}
+.lineapuntos{
+    width: 37%;
+    color: grey;
+    border:1px dashed;
+
+}
+
+#pepe{
+    width: 4px;
+}
+
+hr {
+    width: 37%;
+    color: black;
+  }
+
+#paco{
+    width: 8%;
+    margin-left: 690px;    
+}
+
+
+.contenedor{
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 20px;
+    padding-right: 3px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 470px;
+    margin-right: 470px;
+    background-color: rgb(236, 236, 236);
+    font-size: smaller;
+    
+    
+}
+
+
+
+#listafinal li{
+    display: inline-block;
+    margin: 5px;
+    text-decoration: none;
+    color: gray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
